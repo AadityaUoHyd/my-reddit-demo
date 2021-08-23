@@ -1,0 +1,36 @@
+<div class="container">
+    <div class="row">
+      <div class="create-community-container">
+        <form class="post-form" [formGroup]="createCommunityForm" (ngSubmit)="createCommunity()">
+          <div class="form-group">
+            <div class="create-community-heading">Create Community</div>
+            <hr />
+            <input type="text" [formControlName]="'title'" class="form-control" style="margin-top: 5px"
+              placeholder="Title">
+            <textarea type="text" [formControlName]="'description'" style="width: 100%; margin-top: 5px"
+              placeholder="Description"></textarea>
+            <div>
+              <div style="margin-top: 5px" class="float-right">
+                <button (click)="discard()" class="btnDiscard">Cancel</button>
+                <button class="btnCreateCommunity">Create</button>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+      <div class="col-md-4">
+        <div class="sidebar">
+          <h5 class="guidelines">Guidelines for my-reddit-demo : </h5>
+          <hr />
+          <ul>
+            <li>Show little Compassion, and don't use any swear words.</li>
+            <hr />
+            <li>Spread positivity, and avoid fakes.</li>
+            <hr />
+            <li>Please don't try to spam my-reddit-demo.</li>
+            <hr />
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>

@@ -1,0 +1,2 @@
+# my-reddit-demo
+Reddit is a social networking site. Here in this code I used Angular for frontend and for the backend API, I had used Springboot. one can find the source code here - https://github.com/AadityaUoHyd/my-reddit-demo

@@ -1,0 +1,11 @@
+<div class="sidebar-view-community">
+    <div style="color: black; font-weight: bold">Browse Communities</div>
+    <hr />
+    <span *ngFor="let community of communities">
+        <span class="community-text"><a href="/view-community/{{community.id}}">{{community.name}}</a></span>
+        <hr />
+    </span>
+    <div style="text-align: center" *ngIf="displayViewAll">
+        <a style="font-weight: bold" routerLink="/list-communities">View All</a>
+    </div>
+</div>
