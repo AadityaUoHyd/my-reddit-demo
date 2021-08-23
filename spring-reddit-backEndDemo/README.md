@@ -67,3 +67,9 @@ postId”:”2”
 "refreshToken":"716c7284-a40f-4315-9f6a-6a76456504ac",
 username":"aadi1"
 }
+
+# Spring Security using JWT :
+
+![JWT highlight flow](https://github.com/AadityaUoHyd/my-reddit-demo/blob/master/spring-reddit-backEndDemo/JWT0.jpg)
+
+![Deep dive explaination about my JWT](https://github.com/AadityaUoHyd/my-reddit-demo/blob/master/spring-reddit-backEndDemo/JWT1.jpg)
