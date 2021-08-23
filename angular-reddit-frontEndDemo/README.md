@@ -1,6 +1,6 @@
-# my-reddit-demo
+# my-reddit-frontEndDemo
 
-Reddit is a social networking site. Here in this code I used Angular for frontend and for the backend API, I had used Springboot. one can find the source code at - https://github.com/AadityaUoHyd/my-reddit-demo
+Reddit is a social networking site. Here in this code I used Angular for frontend and for the backend API, I had used Springboot. one can find the source code at - https://github.com/AadityaUoHyd/my-reddit-demo/tree/master/spring-reddit-backEndDemo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9. Later enhanced to latest agnular version 12.2.1.
 
