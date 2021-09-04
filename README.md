@@ -8,6 +8,9 @@ using Angular where as backend by spring boot.
 
 # The Screenshots :
 
+- How to Integrate Angular-SpringBoot App:
+![Integration of Angular & SpringBoot](https://github.com/AadityaUoHyd/my-reddit-demo/blob/master/IMG_20210827_023039.jpg)
+
 - reddit Page
 
 ![Reddit Page](https://github.com/AadityaUoHyd/my-reddit-demo/blob/master/spring-reddit-backEndDemo/src/main/resources/images/3.RedditScreenShot.JPG)
