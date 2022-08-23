@@ -41,4 +41,3 @@ using Angular where as backend by spring boot.
 - https://www.toptal.com/spring/spring-security-tutorial
 - https://mapstruct.org/
 - https://www.javacodegeeks.com/2014/07/java-keystore-tutorial.html 
-- My friend "Sai".
