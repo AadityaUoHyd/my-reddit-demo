@@ -1,7 +1,7 @@
 # my-reddit-demo
 
 - Reddit is a famous social networking site. Here I'm trying to mock few basic functions of it for building a demo purpose. For example,
-  login with registering, login with username & password with email verification, creating communities, posting stuff, commenting & voting on post, etc.
+  login with registering, login with username & password with email verification, creating communities, posting stuff, commenting and voting on post, etc.
 
 - Reddit demo built using Spring Boot, Spring Security with JPA Authentication, Spring Data JPA with MySQL, Spring MVC. The frontend is built 
 using Angular where as backend by spring boot.
